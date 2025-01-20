@@ -4,7 +4,7 @@ A LinkedIn profile scraper using Selenium and Edge WebDriver. This project autom
 
 ## Requirements
 
-- Python 3.x
+- Python 
 - Selenium
 - Microsoft Edge WebDriver
 - An active LinkedIn account
